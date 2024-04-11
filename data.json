@@ -1,0 +1,59 @@
+{
+    "branches": [
+        {
+            "name": "📍 Av. Busch #1924 Edificio C&C II (Miraflores)",
+            "latitude": "-16.5016567",
+            "longitude": "-68.1210736"
+        },
+        {
+            "name": "📍 Calacoto Calle 23 Edificio Villa Del Sol #501",
+            "latitude": "-16.5370735",
+            "longitude": "-68.075594"
+        }
+    ],
+    "services": [
+        {
+            "name": "💇🏻‍♂️ Corte de cabello",
+            "price": "50",
+            "image": "./images/corte.jpg"
+        },
+        {
+            "name": "🧔🏻‍♂️ Corte de Barba",
+            "price": "50",
+            "image": "./images/barba.jpg"
+        },
+        {
+            "name": "💇🏻‍♂️ 🧔🏻‍♂️ Corte de cabello y barba",
+            "price": "100",
+            "image": "./images/corte-y-barba.jpg"
+        }
+    ],
+    "vipServices": [
+        {
+            "name": "😎 Monkey 1",
+            "description": "Incluye\n - 💇🏻‍♂️ Corte\n - 🧖🏻‍♀️ Lavado de cabello\n - 🤨 Diseño de cejas\n - 🥤 Bebida a elección ",
+            "price": "80",
+            "image": "./images/corte.jpg"
+        },
+        {
+            "name": "😎 Monkey 2",
+            "description": "Incluye\n - 💇🏻‍♂️ Corte\n - 🧖🏻‍♀️ Lavado de cabello\n - 🧔🏻‍♂️ Diseño de cejas\n - 🤨 Diseño de cejas o mascarilla\n - 🥤 Bebida a elección ",
+            "price": "120",
+            "image": "./images/corte.jpg"
+        }
+    ],
+    "promos": [
+        {
+            "name": "🙊 Promo Monkey",
+            "description": "Para todo nuestros clientes que buscan verse bien y mantener su imagen, este paquete incluye corte, peinado, exfoliaciónn y aclaramiento del rostro \n\n_Incluye gasesosa de cortesía_ 🥤",
+            "price": "60",
+            "image": "./images/promo-monkey.jpeg"
+        },
+        {
+            "name": "🎂 Promo Cumple",
+            "description": "Presentando tu Carnet de Identidad el día de tu cumpleaños puedes acceder a esta promoción y festejar co nosotros 🥳🎉🎂\n\n_Incluye cerveza de cortesía_ 🍺",
+            "price": "60",
+            "image": "./images/promo-cumple.jpeg"
+        }
+    ]
+}
